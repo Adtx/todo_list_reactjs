@@ -8,4 +8,4 @@ Tasks can be marked as completed with a single click and can also be removed.<br
 Finally the user can edit a todo item by clicking on the 'edit' icon and the app automatically focuses on the input field so the user doesn't have to click on it and can just start typing right away thus improving the user experience.<br/>
 The app features a modern layout and each item in the list gets automatically assigned a different color that rotates as more items are added to the list.
 
-Click <a href="https://adtx.github.io/todo-list-app/" target="_blank">here</a> to try out the app for yourself.
+Click <a href="https://adtx.github.io/todo-list-reactjs/" target="_blank">here</a> to try out the app for yourself.
