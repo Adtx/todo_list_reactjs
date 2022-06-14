@@ -12,7 +12,7 @@
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://Adtx.github.io/todo_list_reactjs",
+  "homepage": "https://adtx.github.io/todo_list_reactjs",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
