@@ -4,7 +4,7 @@ import TodoForm from "./TodoForm";
 
 function TodoList() {
   const [todos, setTodos] = useState(
-    JSON.parse(localStorage.getItem("todos")) || []
+    () => JSON.parse(localStorage.getItem("todos")) || []
   );
 
   function addTodo(todo) {
